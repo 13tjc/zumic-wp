@@ -1,0 +1,139 @@
+
+
+=======+++++++__ZUMIC TICKETFILLER: Manual Updater__+++++++=======
+Today is Fri Mar  6 15:32:12 EST 2015
+from bash: red wanting blue  n n /var/www/sites/zumic.com/wp-content/uploads/2015/03/rwb6.png<br>
+Creating events...
+
+
+==========================================
+=== SK MANUAL UPDATER (ZUMIC 2014) ===
+==========================================
+Artist Query: Red Wanting Blue
+Secondaries: []
+Featured Image URL: "/var/www/sites/zumic.com/wp-content/uploads/2015/03/rwb6.png"
+
+Loading modules...
+Importing CSV table (Affiliate Window)...
+Importing AXS events...
+3240 AXS results
+Setting up TicketCorner tree...
+823 TicketCorner results
+Setting up StubWire tree...
+Setting up SuperStar CSV
+Getting keys...
+Making SOAP request (Ticketmaster)...
+3 results from Ticketmaster
+Getting Ticketfly response...
+1 results from Ticketfly
+(Skipping SK)
+Getting ticket data from AXS...
+Ticketmaster price is 20.00
+Ticketmaster price is 20.00
+Ticketmaster price is 0.00
+Getting data from TicketCorner...
+Getting data from StubWire...
+Getting data from SuperStar...
+87730
+SUPERSTAR!
+superstar:
+{'reseller': 'superstar', 'city': 'Cleveland', 'seller_name': 'SuperStar', 'date_year': '2015', 'url': 'http://www.awin1.com/cread.php?awinaffid=200107&awinmid=4037&p=http://www.superstartickets.com/Red-Wanting-Blue-2477998', 'date_month': '03', 'price': '207.00', 'address': '308 Euclid Avenue', 'seller_field': 'superstar', 'state': 'Ohio', 'venue': 'House Of Blues - Cleveland', 'event_name': 'Red Wanting Blue Tickets', 'primary_seller': '', 'link': 'http://www.awin1.com/cread.php?awinaffid=200107&awinmid=4037&p=http://www.superstartickets.com/Red-Wanting-Blue-2477998', 'time': '20:00', 'date': '2015-03-14', 'date_day': '14'}
+Ohio abbreviated to OH
+Red Wanting Bluefound in Red Wanting Blue Tickets (superstar)
+SUPERSTAR!
+superstar:
+{'reseller': 'superstar', 'city': 'Cleveland', 'seller_name': 'SuperStar', 'date_year': '2015', 'url': 'http://www.awin1.com/cread.php?awinaffid=200107&awinmid=4037&p=http://www.superstartickets.com/Red-Wanting-Blue-2479554', 'date_month': '03', 'price': '44.85', 'address': '308 Euclid Avenue', 'seller_field': 'superstar', 'state': 'Ohio', 'venue': 'House Of Blues - Cleveland', 'event_name': 'Red Wanting Blue Tickets', 'primary_seller': '', 'link': 'http://www.awin1.com/cread.php?awinaffid=200107&awinmid=4037&p=http://www.superstartickets.com/Red-Wanting-Blue-2479554', 'time': '19:00', 'date': '2015-03-13', 'date_day': '13'}
+Ohio abbreviated to OH
+Red Wanting Bluefound in Red Wanting Blue Tickets (superstar)
+Sweeping Affiliate Window CSV...
+--(3193691567)--
+Red Wanting Blue at House of Blues Cleveland in Cleveland, OH (308 Euclid Avenue, Cleveland 44114) on 2015-03-14 for $20.00, sold by Ticketmaster (US & CA) (3193691567)
+--(3193691561)--
+Red Wanting Blue at House of Blues Cleveland in Cleveland, OH (308 Euclid Avenue, Cleveland 44114) on 2015-03-13 for $20.00, sold by Ticketmaster (US & CA) (3193691561)
+--(3217459095)--
+Red Wanting Blue at Columbus Athenaeum in Columbus, OH (32 N. 4th St., Columbus 43215) on 2015-04-04 for $0.00, sold by Ticketmaster (US & CA) (3217459095)
+--(3197874507)--
+Red Wanting Blue at  House of Blues Cleveland in  Cleveland ( 308 Euclid Avenue,  Cleveland,  OH  Cleveland) on 2015-03-14 for $105.14, sold by ticketsnow (3197874507)
+ticketmaster
+ticketmaster
+superstar
+red wanting blue is relevant within red wanting blue
+2015-03-13: 3
+{'city': u'Cleveland', 'reseller': '', 'seller_name': 'Ticketmaster', 'url': u'http://www.awin1.com/cread.php?awinmid=4103&awinaffid=200107&clickref=&p=http://www.ticketmaster.com/partner_redirect?url=http%3A%2F%2Fconcerts.livenation.com%2Fevent%2F05004E26AA6221D7', 'date_month': '03', 'price': u'20.00', 'address': u'308 Euclid Avenue, Cleveland, OH, United States Of America 44114', 'seller_field': 'ticketmaster', 'state': u'OH', 'venue': u'House of Blues Cleveland', 'event_name': u'Red Wanting Blue', 'primary_seller': 'ticketmaster', 'link': u'http://www.awin1.com/cread.php?awinmid=4103&awinaffid=200107&clickref=&p=http://www.ticketmaster.com/partner_redirect?url=http%3A%2F%2Fconcerts.livenation.com%2Fevent%2F05004E26AA6221D7', 'time': '19:0', 'date_year': '2015', 'date': '2015-03-13', 'date_day': '13'}
+TITLE: Red Wanting Blue at House of Blues Cleveland in Cleveland, OH on Mar 13, 2015
+308 Euclid Avenue, Cleveland, OH, United States Of America 44114
+41.499151, -81.690641
+ticketmaster
+ticketmaster
+superstar
+ticketsnow
+red wanting blue is relevant within red wanting blue
+2015-03-14: 4
+{'city': u'Cleveland', 'reseller': '', 'seller_name': 'Ticketmaster', 'url': u'http://www.awin1.com/cread.php?awinmid=4103&awinaffid=200107&clickref=&p=http://www.ticketmaster.com/partner_redirect?url=http%3A%2F%2Fconcerts.livenation.com%2Fevent%2F05004E26AF3629AE', 'date_month': '03', 'price': u'20.00', 'address': u'308 Euclid Avenue, Cleveland, OH, United States Of America 44114', 'seller_field': 'ticketmaster', 'state': u'OH', 'venue': u'House of Blues Cleveland', 'event_name': u'Red Wanting Blue', 'primary_seller': 'ticketmaster', 'link': u'http://www.awin1.com/cread.php?awinmid=4103&awinaffid=200107&clickref=&p=http://www.ticketmaster.com/partner_redirect?url=http%3A%2F%2Fconcerts.livenation.com%2Fevent%2F05004E26AF3629AE', 'time': '19:0', 'date_year': '2015', 'date': '2015-03-14', 'date_day': '14'}
+TITLE: Red Wanting Blue at House of Blues Cleveland in Cleveland, OH on Mar 14, 2015
+308 Euclid Avenue, Cleveland, OH, United States Of America 44114
+41.499151, -81.690641
+ticketmaster
+ticketmaster
+red wanting blue is relevant within red wanting blue w/ lydia loveless - homecoming show
+2015-04-04: 2
+{'city': u'Columbus', 'reseller': '', 'seller_name': 'Ticketmaster', 'url': u'http://www.awin1.com/cread.php?awinmid=4103&awinaffid=200107&clickref=&p=http://www.ticketmaster.com/partner_redirect?url=http%3A%2F%2Fwww.ticketweb.com%2Ft3%2Fsale%2FSaleEventDetail%3Fdispatch%3DloadSelectionData%26eventId%3D5686795%26REFERRAL_ID%3Dtmfeed', 'date_month': '04', 'price': u'0.00', 'address': u'32 N. 4th St., Columbus, OH, United States Of America 43215', 'seller_field': 'ticketmaster', 'state': u'OH', 'venue': u'Columbus Athenaeum', 'event_name': u'Red Wanting Blue W/ Lydia Loveless - Homecoming Show', 'primary_seller': 'ticketmaster', 'link': u'http://www.awin1.com/cread.php?awinmid=4103&awinaffid=200107&clickref=&p=http://www.ticketmaster.com/partner_redirect?url=http%3A%2F%2Fwww.ticketweb.com%2Ft3%2Fsale%2FSaleEventDetail%3Fdispatch%3DloadSelectionData%26eventId%3D5686795%26REFERRAL_ID%3Dtmfeed', 'time': '20:0', 'date_year': '2015', 'date': '2015-04-04', 'date_day': '04'}
+TITLE: Red Wanting Blue at Columbus Athenaeum in Columbus, OH on Apr 4, 2015
+32 N. 4th St., Columbus, OH, United States Of America 43215
+39.973997, -83.029837
+ticketfly
+red wanting blue is relevant within red wanting blue
+2015-04-16: 1
+{'city': u'Indianapolis', 'reseller': '', 'seller_name': 'Ticketfly', 'url': 'http://www.shareasale.com/r.cfm?u=701549&b=234786&m=27601&afftrack=&urllink=https://www.ticketfly.com/purchase/event/799691/tfly?utm_medium=api', 'date_month': '04', 'price': u'$20.00', 'address': u'1119 E. Prospect St., Indianapolis, IN,  46203', 'seller_field': 'ticketfly', 'state': u'IN', 'venue': u'Radio Radio', 'event_name': u'Red Wanting Blue', 'primary_seller': 'ticketfly', 'link': 'http://www.shareasale.com/r.cfm?u=701549&b=234786&m=27601&afftrack=&urllink=https://www.ticketfly.com/purchase/event/799691/tfly?utm_medium=api', 'time': '21:00', 'date_year': '2015', 'date': '2015-04-16', 'date_day': '16'}
+TITLE: Red Wanting Blue at Radio Radio in Indianapolis, IN on Apr 16, 2015
+1119 E. Prospect St., Indianapolis, IN,  46203
+39.752121, -86.139028
+tried to convert$20.00 but failed :(
+SK was skipped
+Found 3 events from Ticketmaster
+Found 1 events from Ticketfly
+Found 2 events from SuperStar
+Found 4 events from Affiliate Window
+4 events in total
+DONE! in 18.9712 seconds
+Wrote to phpout/update_events_20150306153212_0.php
+doing phpout/update_events_20150306153212_0.php
+
+==update_remote.py==
+Loading modules...
+web
+Getting response...
+Attempt #1
+<!--Updated 2014/12/09 16:33 by David Su-->
+<title>Template for Ticketfiller PHP Updates and Manual Updates</title>
+
+<style>
+  success {
+    color: blue;
+    font-weight: bold;
+  }
+
+  noupdate {
+    color: blue;
+  }
+
+  failure {
+    color: red;
+    font-weight: bold;
+  }
+
+</style>
+<script>
+    console.log("ola!");
+
+</script>
+
+<!--initial setup and test-->
+
+Imported on <br><b>Fri March 6, 2015, 3:34 pm</b><br>Columbus Athenaeum does not existInserted 4 new events, updated 0 existing events, and left 0 untouched (although these could have had updates to ticket links or latitude/longitude). 
+
+DONE! in 123.128 seconds
+
+
+<br><br>
+from python:  ['test_artist.py', 'red wanting blue']

@@ -1,0 +1,58 @@
+{
+  "name": "zumic-backbone",
+  "version": "0.0.1",
+  "description": "Zumic wordpress theme based on backbone.js",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": {
+    "name": "Bo4A(http://bo4a.me)"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "jshint-stylish": "~0.1.4",
+    "time-grunt": "~0.2.5",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-cssmin": "~0.7.0",
+    "grunt-usemin": "~2.0.2",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-contrib-jshint": "~0.7.2",
+    "grunt": "~0.4.2",
+    "grunt-contrib-watch": "~0.5.3",
+    "load-grunt-tasks": "~0.2.0",
+    "grunt-contrib-handlebars": "~0.6.0",
+    "grunt-requirejs": "~0.4.0",
+    "grunt-contrib-imagemin": "~0.4.0",
+    "bower": "~1.2.8",
+    "grunt-bower-requirejs": "~0.8.0",
+    "grunt-contrib-compass": "~0.7.0",
+    "grunt-contrib-nodeunit": "~0.2.2",
+    "grunt-contrib-requirejs": "~0.4.1"
+  },
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-requirejs": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-handlebars": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-clean": "*",
+    "grunt-contrib-imagemin": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-compass": "*",
+    "grunt-contrib-nodeunit": "*",
+    "grunt-usemin": "*",
+    "grunt-bower-requirejs": "*",
+    "grunt-requirejs": "*",
+    "load-grunt-tasks": "~0.2.1",
+    "time-grunt": "*",
+    "jshint-stylish": "*"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
+
